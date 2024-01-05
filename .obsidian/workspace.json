@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "佛法/杂阿含经/杂阿含经.md",
+                "file": "佛法/心经.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "佛法/杂阿含经/杂阿含经.md"
+                "file": "佛法/心经.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "佛法/杂阿含经/杂阿含经.md",
+                "file": "佛法/心经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "佛法/杂阿含经/杂阿含经.md",
+                "file": "佛法/心经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "佛法/杂阿含经/杂阿含经.md",
+                "file": "佛法/心经.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,11 +252,11 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "02028f9d1cb0673a",
+  "active": "cb540d4fc7dc3913",
   "lastOpenFiles": [
-    "佛法/其它/备注：感恩.md",
-    "佛法/杂阿含经/杂阿含经.md",
     "README.md",
+    "佛法/杂阿含经/杂阿含经.md",
+    "佛法/其它/备注：感恩.md",
     "佛法/心经.md",
     "佛法/佛法.md",
     "佛法/杂阿含经/杂阿含经 经文/1.3 无知经.md",
