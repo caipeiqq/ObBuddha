@@ -1,0 +1,212 @@
+﻿console.warn('Deprecation warning: ' + msg);
+console.warn('Deprecation warning: ' + msg);
+L: 'MM/DD/YYYY',
+L: 'MM/DD/YYYY',
+LL: 'MMMM D, YYYY',
+LL: 'MMMM D, YYYY',
+LLL: 'MMMM D, YYYY h:mm A',
+LLL: 'MMMM D, YYYY h:mm A',
+addFormatToken('MMM', 0, 0, function (format) {
+addFormatToken('MMM', 0, 0, function (format) {
+addFormatToken('MMMM', 0, 0, function (format) {
+addFormatToken('MMMM', 0, 0, function (format) {
+addRegexToken('MM', match1to2, match2);
+addRegexToken('MM', match1to2, match2);
+addRegexToken('MMM', function (isStrict, locale) {
+addRegexToken('MMM', function (isStrict, locale) {
+addRegexToken('MMMM', function (isStrict, locale) {
+addRegexToken('MMMM', function (isStrict, locale) {
+addRegexToken('YY', match1to2, match2);
+addRegexToken('YY', match1to2, match2);
+addRegexToken('YYYY', match1to4, match4);
+addRegexToken('YYYY', match1to4, match4);
+addRegexToken('YYYYY', match1to6, match6);
+addRegexToken('YYYYY', match1to6, match6);
+addRegexToken('YYYYYY', match1to6, match6);
+addRegexToken('YYYYYY', match1to6, match6);
+addParseToken('YYYY', function (input, array) {
+addParseToken('YYYY', function (input, array) {
+addParseToken('YY', function (input, array) {
+addParseToken('YY', function (input, array) {
+var getSetYear = makeGetSet('FullYear', true);
+var getSetYear = makeGetSet('FullYear', true);
+addRegexToken('WW', match1to2, match2);
+addRegexToken('WW', match1to2, match2);
+addFormatToken('Hmm', 0, 0, function () {
+addFormatToken('Hmm', 0, 0, function () {
+addFormatToken('Hmmss', 0, 0, function () {
+addFormatToken('Hmmss', 0, 0, function () {
+addRegexToken('HH', match1to2, match2);
+addRegexToken('HH', match1to2, match2);
+addRegexToken('Hmm', match3to4);
+addRegexToken('Hmm', match3to4);
+addRegexToken('Hmmss', match5to6);
+addRegexToken('Hmmss', match5to6);
+addParseToken('Hmm', function (input, array, config) {
+addParseToken('Hmm', function (input, array, config) {
+addParseToken('Hmmss', function (input, array, config) {
+addParseToken('Hmmss', function (input, array, config) {
+getSetHour = makeGetSet('Hours', true);
+getSetHour = makeGetSet('Hours', true);
+offset('ZZ', '');
+offset('ZZ', '');
+addRegexToken('ZZ', matchShortOffset);
+addRegexToken('ZZ', matchShortOffset);
+: 'YYYYYY-MM-DD[T]HH:mm:ss.SSSZ'
+: 'YYYYYY-MM-DD[T]HH:mm:ss.SSSZ'
+utc ? 'YYYY-MM-DD[T]HH:mm:ss.SSS[Z]' : 'YYYY-MM-DD[T]HH:mm:ss.SSSZ'
+utc ? 'YYYY-MM-DD[T]HH:mm:ss.SSS[Z]' : 'YYYY-MM-DD[T]HH:mm:ss.SSSZ'
+year = 0 <= this.year() && this.year() <= 9999 ? 'YYYY' : 'YYYYYY';
+year = 0 <= this.year() && this.year() <= 9999 ? 'YYYY' : 'YYYYYY';
+addFormatToken('NN', 0, 0, 'eraAbbr');
+addFormatToken('NN', 0, 0, 'eraAbbr');
+addFormatToken('NNN', 0, 0, 'eraAbbr');
+addFormatToken('NNN', 0, 0, 'eraAbbr');
+addFormatToken('NNNN', 0, 0, 'eraName');
+addFormatToken('NNNN', 0, 0, 'eraName');
+addFormatToken('NNNNN', 0, 0, 'eraNarrow');
+addFormatToken('NNNNN', 0, 0, 'eraNarrow');
+addRegexToken('NN', matchEraAbbr);
+addRegexToken('NN', matchEraAbbr);
+addRegexToken('NNN', matchEraAbbr);
+addRegexToken('NNN', matchEraAbbr);
+addRegexToken('NNNN', matchEraName);
+addRegexToken('NNNN', matchEraName);
+addRegexToken('NNNNN', matchEraNarrow);
+addRegexToken('NNNNN', matchEraNarrow);
+addWeekYearFormatToken('GGGG', 'isoWeekYear');
+addWeekYearFormatToken('GGGG', 'isoWeekYear');
+addWeekYearFormatToken('GGGGG', 'isoWeekYear');
+addWeekYearFormatToken('GGGGG', 'isoWeekYear');
+addRegexToken('GG', match1to2, match2);
+addRegexToken('GG', match1to2, match2);
+addRegexToken('GGGG', match1to4, match4);
+addRegexToken('GGGG', match1to4, match4);
+addRegexToken('GGGGG', match1to6, match6);
+addRegexToken('GGGGG', match1to6, match6);
+addRegexToken('DD', match1to2, match2);
+addRegexToken('DD', match1to2, match2);
+addRegexToken('Do', function (isStrict, locale) {
+addRegexToken('Do', function (isStrict, locale) {
+addParseToken('Do', function (input, array) {
+addParseToken('Do', function (input, array) {
+var getSetDayOfMonth = makeGetSet('Date', true);
+var getSetDayOfMonth = makeGetSet('Date', true);
+addFormatToken('DDD', ['DDDD', 3], 'DDDo', 'dayOfYear');
+addFormatToken('DDD', ['DDDD', 3], 'DDDo', 'dayOfYear');
+addRegexToken('DDD', match1to3);
+addRegexToken('DDD', match1to3);
+addRegexToken('DDDD', match3);
+addRegexToken('DDDD', match3);
+var getSetMinute = makeGetSet('Minutes', false);
+var getSetMinute = makeGetSet('Minutes', false);
+var getSetSecond = makeGetSet('Seconds', false);
+var getSetSecond = makeGetSet('Seconds', false);
+addRegexToken('SS', match1to3, match2);
+addRegexToken('SS', match1to3, match2);
+addRegexToken('SSS', match1to3, match3);
+addRegexToken('SSS', match1to3, match3);
+getSetMillisecond = makeGetSet('Milliseconds', false);
+getSetMillisecond = makeGetSet('Milliseconds', false);
+name: 'Anno Domini',
+name: 'Anno Domini',
+narrow: 'AD',
+narrow: 'AD',
+abbr: 'AD',
+abbr: 'AD',
+name: 'Before Christ',
+name: 'Before Christ',
+narrow: 'BC',
+narrow: 'BC',
+abbr: 'BC',
+abbr: 'BC',
+DATETIME_LOCAL: 'YYYY-MM-DDTHH:mm', // <input type="datetime-local" />
+DATETIME_LOCAL: 'YYYY-MM-DDTHH:mm', // <input type="datetime-local" />
+DATETIME_LOCAL_SECONDS: 'YYYY-MM-DDTHH:mm:ss', // <input type="datetime-local" step="1" />
+DATETIME_LOCAL_SECONDS: 'YYYY-MM-DDTHH:mm:ss', // <input type="datetime-local" step="1" />
+DATETIME_LOCAL_MS: 'YYYY-MM-DDTHH:mm:ss.SSS', // <input type="datetime-local" step="0.001" />
+DATETIME_LOCAL_MS: 'YYYY-MM-DDTHH:mm:ss.SSS', // <input type="datetime-local" step="0.001" />
+DATE: 'YYYY-MM-DD', // <input type="date" />
+DATE: 'YYYY-MM-DD', // <input type="date" />
+TIME: 'HH:mm', // <input type="time" />
+TIME: 'HH:mm', // <input type="time" />
+TIME_SECONDS: 'HH:mm:ss', // <input type="time" step="1" />
+TIME_SECONDS: 'HH:mm:ss', // <input type="time" step="1" />
+TIME_MS: 'HH:mm:ss.SSS', // <input type="time" step="0.001" />
+TIME_MS: 'HH:mm:ss.SSS', // <input type="time" step="0.001" />
+WEEK: 'GGGG-[W]WW', // <input type="week" />
+WEEK: 'GGGG-[W]WW', // <input type="week" />
+MONTH: 'YYYY-MM', // <input type="month" />
+MONTH: 'YYYY-MM', // <input type="month" />
+.setName('Default location for new notes')
+.setName('Default location for new notes,默认位置为新笔记')
+.setDesc('Where newly created notes are placed.')
+.setDesc('Where newly created notes are placed,新创建的笔记被放在哪里.')
+.setName('Folder for new notes')
+.setName('Folder for new notes文件夹为新笔记')
+.setPlaceholder("Example: folder 1/folder")
+.setPlaceholder("Example: folder 1/folder")
+.setName('File name prefix')
+.setName('File name prefix,文件名前缀')
+.setPlaceholder("Example: {{date:YYYYMMDDHHmm}}-")
+.setPlaceholder("Example: {{date:YYYYMMDDHHmm}}-")
+.setName('Transclude by default')
+.setName('Transclude by default,默认情况下转换')
+.setDesc('When content has been extracted/split into a new note, include a transclusion of the new note')
+.setDesc('When content has been extracted/split into a new note, include a transclusion of the new note,当内容被提取/拆分为新笔记时，包括新笔记的转义')
+.setName('Note link template')
+.setName('Note link template')
+.setDesc(this.tempalteDescriptionContent('The template used to generate the link to the extracted note. This overrides the Transclude by Default setting.'))
+.setDesc(this.tempalteDescriptionContent('The template used to generate the link to the extracted note. This overrides the Transclude by Default setting.'))
+.setPlaceholder("Example:\n\nSee also -> {{new_note_link}}")
+.setPlaceholder("Example:\n\nSee also -> {{new_note_link}}")
+.setName('Refactored note template')
+.setName('Refactored note template')
+.setDesc(this.tempalteDescriptionContent('The template used to generate the content for the refactored note.'))
+.setDesc(this.tempalteDescriptionContent('The template used to generate the content for the refactored note.'))
+.setPlaceholder('Example:\n\n{{new_note_content}}\n\n---\nLink to original note: {{link}}')
+.setPlaceholder('Example:\n\n{{new_note_content}}\n\n---\nLink to original note: {{link}}')
+.setName('Exclude First Line')
+.setName('Exclude First Line')
+.setDesc('Prevent the first line of selected/split note content from being included in the new note (only applies for first line as file name commands)')
+.setDesc('Prevent the first line of selected/split note content from being included in the new note (only applies for first line as file name commands)')
+.setName('Include Heading')
+.setName('Include Heading')
+.setDesc('Include first line of selected/split note content as note heading (applies for both first line as title and content only commands)')
+.setDesc('Include first line of selected/split note content as note heading (applies for both first line as title and content only commands)')
+.setName('Heading format')
+.setName('Heading format')
+.setDesc('Set format of the heading to be included in note content')
+.setDesc('Set format of the heading to be included in note content')
+descEl.appendText('Supported placeholders:');
+descEl.appendText('Supported placeholders:');
+descEl.appendText('Newly created notes will appear under this folder.');
+descEl.appendText('Newly created notes will appear under this folder.');
+descEl.appendText('For more syntax, refer to ');
+descEl.appendText('For more syntax, refer to ');
+descEl.appendText('Your current folder path syntax looks like this:');
+descEl.appendText('Your current folder path syntax looks like this:');
+descEl.appendText('Newly created notes will have this prefix');
+descEl.appendText('Newly created notes will have this prefix');
+descEl.appendText('Your current file name prefix syntax looks like this:');
+descEl.appendText('Your current file name prefix syntax looks like this:');
+descEl.appendText('Date formats are supported {{date:YYYYMMDDHHmm}}');
+descEl.appendText('Date formats are supported {{date:YYYYMMDDHHmm}}');
+name: 'Extract selection to new note - first line as file name',
+name: '提取选择到新笔记 - 第一行作为文件名',
+name: 'Extract selection to new note - content only',
+name: '提取选择到新笔记 - 仅内容',
+name: 'Extract selection to new note - only prefix as file name',
+name: '提取选择到新笔记 - 仅以前缀作为文件名',
+name: 'Split note here - first line as file name',
+name: '此处拆分笔记-第一行作为文件名',
+name: 'Split note here - content only',
+name: '此处拆分笔记-仅限内容',
+name: 'Split note by headings - H1',
+name: '按标题拆分笔记 - H1',
+name: 'Split note by headings - H2',
+name: '按标题拆分笔记 - H2',
+name: 'Split note by headings - H3',
+name: '按标题拆分笔记 - H3',
+new Notification('Please use Note Refactor plugin in edit mode');
+new Notification('Please use Note Refactor plugin in edit mode');

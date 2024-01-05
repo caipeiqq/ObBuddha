@@ -1,0 +1,339 @@
+{
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "starred:star-current-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "obsidian-linter:lint-file": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
+  ],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "5"
+    }
+  ],
+  "editor:follow-link": [],
+  "app:open-help": [],
+  "editor:save-file": [],
+  "note-composer:split-file": [],
+  "note-composer:extract-heading": [],
+  "buttons:button-maker": [],
+  "note-composer:merge-file": [],
+  "app:reload": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-pangu:pangu-format": [],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "."
+    }
+  ],
+  "app:go-back": [],
+  "app:go-forward": [],
+  "url-into-selection:paste-url-into-selection": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "6"
+    }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-git:push": [],
+  "workspaces-plus:MBUS": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspaces-plus:STM32": [],
+  "workspace:toggle-pin": [],
+  "obsidian-tidy-footnotes:tidy-footnotes": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "obsidian-git:push2": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "workspace:edit-file-title": [],
+  "app:open-settings": [],
+  "editor:toggle-code": [],
+  "workspace:close": [],
+  "switcher:open": [],
+  "editor:toggle-italics": [],
+  "editor:toggle-comments": [],
+  "editor:set-heading": [],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "media-extended:open-media-link": [],
+  "media-extended:take-rec-timestamp": [],
+  "media-extended:get-timestamp": [],
+  "editor:open-search": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-regex-replace:obsidian-regex-replace": [],
+  "find-and-replace-in-selection:find-and-replace-in-selection": [],
+  "obsidian-find-and-replace-in-selection:find-and-replace-in-selection": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "Enhanced-editing:biaoti6-text": [],
+  "markdown-prettifier:markdown-prettifier-run": [],
+  "Enhanced-editing:mouse-left": [],
+  "obsidian-hover-editor:open-link-in-new-popover": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "nldates-obsidian:nlp-now": [],
+  "nldates-obsidian:nlp-today": [],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "insert-current-time": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "Enhanced-editing:biaoti0-text": [],
+  "Enhanced-editing:add-daima": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ],
+  "obsidian-hover-editor:snap-active-popover-to-right": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ],
+  "obsidian-outliner:move-list-item-down": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "obsidian-outliner:unfold": [],
+  "obsidian-outliner:move-list-item-up": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "obsidian-outliner:fold": [],
+  "obsidian-outliner:outdent-list": [],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
+  ],
+  "Enhanced-editing:mouse-down": [],
+  "workspaces-plus:save-workspace": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "bookmarks:bookmark-current-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "quickadd:choice:058d55f9-36ad-4af5-90c6-d53ea9fce9a3": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "obsidian-to-anki-plugin:anki-scan-vault": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "obsidian-footnotes:insert-named-footnote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "highlightr-plugin:Blue": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "highlightr-plugin:Green": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+  "highlightr-plugin:Orange": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "ec4a4ec33659d11d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5186779fed7fd7e3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "400 - 归档/9 生活 MOC/墨水屏 MOC.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3469ab3e9044d554",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f68464d3426f49f",
+        "type": "tabs",
+        "dimension": 60.38461538461538,
+        "children": [
+          {
+            "id": "02028f9d1cb0673a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5fb1f25267b8aa7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58cb74724593e3f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "11b0cfc1ee4fd145",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "679e13813cafd782",
+        "type": "tabs",
+        "dimension": 39.61538461538461,
+        "children": [
+          {
+            "id": "e37824cc66bb4c68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249
+  },
+  "right": {
+    "id": "351d6590ed233d4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9597ef3e2ca2165f",
+        "type": "tabs",
+        "dimension": 46.28205128205129,
+        "children": [
+          {
+            "id": "7fbaf334cbc8cae0",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "da7bdf1bf60dbb9c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c0dcd15e21b1202",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f7956686243aec5",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "c30e13434f0c2f64",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "573610388fb95426",
+        "type": "tabs",
+        "dimension": 53.71794871794871,
+        "children": [
+          {
+            "id": "4d70aa6eadcc5979",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "400 - 归档/9 生活 MOC/墨水屏 MOC.md"
+              }
+            }
+          },
+          {
+            "id": "801ebee75e948459",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8788e798d2999214",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "400 - 归档/9 生活 MOC/墨水屏 MOC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44e8fcf51747942c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "400 - 归档/9 生活 MOC/墨水屏 MOC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f84719bfb6578f4a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "400 - 归档/9 生活 MOC/墨水屏 MOC.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6554983534946921,
+                  "close": false
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304,
+    "collapsed": true
+  },
+  "active": "02028f9d1cb0673a",
+  "lastOpenFiles": [
+    "400 - 归档/9 生活 MOC/手机 MOC/手机 MOC.md",
+    "400 - 归档/英语 MOC/方法 想把英语词汇量扩到2万左右，如何挑选词典.md",
+    "2 - PARA法/500 - 档案/0 学习 档案/英语/你是如何将词汇量提升到 2 万，甚至 3 万的？.md",
+    "400 - 归档/1 如何过好这一生 MOC/阅读 MOC/《如何阅读一本书》/《如何阅读一本书》——读书方法的整理 - 知乎.md",
+    "2 - PARA法/500 - 档案/1 硬件 档案/硬件工程师/PCB/!!! 0欧电阻为什么能把数字模拟混合电路中的地分开？.md",
+    "2 - PARA法/500 - 档案/1 硬件 档案/0 - STM32 领域/枝：最小系统板/STM32 输出5V.md",
+    "400 - 归档/3 软硬件 MOC/硬件 MOC/Cadence软件 MOC/Cadence软件 问题/元件 元件库 中英对应表.md",
+    "2 - PARA法/500 - 档案/1 工作 档案/1 - 冰厚传感器/file/4.4 智能数据处理仪的硬件电路设计.md",
+    "400 - 归档/9 工作 MOC/一体式阀控水表 MOC/一体式阀控水表 MOC.md",
+    "400 - 归档/9 工作 MOC/9 工作 MOC.md"
+  ]
+}

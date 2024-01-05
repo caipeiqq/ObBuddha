@@ -1,0 +1,321 @@
+{
+  "workspaces": {
+    "2栏": {
+      "main": {
+        "id": "ec4a4ec33659d11d",
+        "type": "split",
+        "children": [
+          {
+            "id": "bb06c7c93a9f9589",
+            "type": "tabs",
+            "dimension": 55.959752321981426,
+            "children": [
+              {
+                "id": "983a150bd9e83667",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-收集箱/L1/如何进入学习状态.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                },
+                "group": "da262a288d71b85e"
+              },
+              {
+                "id": "07900d56e8821b5d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-收集箱/L1/如何进入学习状态.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "61e684c8f386cdf9",
+            "type": "tabs",
+            "dimension": 44.040247678018574,
+            "children": [
+              {
+                "id": "39faea5e6d0a309f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "01-收集箱/L1/如何进入学习状态.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                },
+                "group": "da262a288d71b85e"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "3469ab3e9044d554",
+        "type": "split",
+        "children": [
+          {
+            "id": "6f68464d3426f49f",
+            "type": "tabs",
+            "dimension": 71.39272271016311,
+            "children": [
+              {
+                "id": "02028f9d1cb0673a",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "3d1495980f471e22",
+                "type": "leaf",
+                "state": {
+                  "type": "file-tree-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "5fb1f25267b8aa7e",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "5f54b11d95f0209f",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "679e13813cafd782",
+            "type": "tabs",
+            "dimension": 28.60727728983689,
+            "children": [
+              {
+                "id": "e37824cc66bb4c68",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 217.5
+      },
+      "right": {
+        "id": "351d6590ed233d4e",
+        "type": "split",
+        "children": [
+          {
+            "id": "9597ef3e2ca2165f",
+            "type": "tabs",
+            "dimension": 46.28205128205129,
+            "children": [
+              {
+                "id": "018dfe9b96e67810",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_nodes",
+                  "state": {}
+                }
+              },
+              {
+                "id": "6bd5b4744b3dfa77",
+                "type": "leaf",
+                "state": {
+                  "type": "juggl_style",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8d60f6e598d313da",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency"
+                  }
+                }
+              },
+              {
+                "id": "886ce277bfe40ac8",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "573610388fb95426",
+            "type": "tabs",
+            "dimension": 53.71794871794871,
+            "children": [
+              {
+                "id": "4d70aa6eadcc5979",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "01-收集箱/L1/如何进入学习状态.md"
+                  }
+                }
+              },
+              {
+                "id": "801ebee75e948459",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8788e798d2999214",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "01-收集箱/L1/如何进入学习状态.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "44e8fcf51747942c",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "01-收集箱/L1/如何进入学习状态.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f84719bfb6578f4a",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "01-收集箱/L1/如何进入学习状态.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.6554983534946921,
+                      "close": true
+                    }
+                  }
+                }
+              },
+              {
+                "id": "47f686646d2aed5f",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 279.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "canvas:新建白板": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "workspaces:管理工作区布局": false,
+          "oz-clear-unused-images:Clear Unused Images": false,
+          "obsidian-journey-plugin:Find Journey": false,
+          "juggl:Juggl global graph": false,
+          "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+          "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+          "file-tree-alternative:File Tree Alternative Plugin": false,
+          "templater-obsidian:Templater": false,
+          "publish:发布更改": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "07900d56e8821b5d",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "01-收集箱",
+          "01-收集箱/L1",
+          "02-项目",
+          "04-知识库"
+        ]
+      }
+    }
+  },
+  "active": "2栏"
+}

@@ -1,0 +1,17 @@
+{
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-blue-mountain",
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-default",
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
+  "blue-topaz-theme@@image-zoom": false,
+  "blue-topaz-theme@@font-family-change-to-default": false,
+  "blue-topaz-theme@@font-family-strong": "宋体, 'LXGW WenKai Screen R', 'LXGW WenKai UI', 'Segoe UI Emoji', var(--default-font)",
+  "blue-topaz-theme@@background-image-settings-command-palette-same-as-workplace": true,
+  "blue-topaz-theme@@line-height-main": 1.4,
+  "blue-topaz-theme@@paragraph-spacing": 1.4,
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "blue-topaz-theme@@remove-file-icons": false,
+  "blue-topaz-theme@@unmuted-collapsed-folder": true,
+  "blue-topaz-theme@@blockquote-style-change-options": "blockquote-style-quotation-mark"
+}

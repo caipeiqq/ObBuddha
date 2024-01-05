@@ -1,0 +1,306 @@
+{
+  "main": {
+    "id": "ec4a4ec33659d11d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9c72fedd93d9ec0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb540d4fc7dc3913",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "佛法/杂阿含经/杂阿含经.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3469ab3e9044d554",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f68464d3426f49f",
+        "type": "tabs",
+        "dimension": 61.94926568758344,
+        "children": [
+          {
+            "id": "02028f9d1cb0673a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fb1f25267b8aa7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f54b11d95f0209f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "679e13813cafd782",
+        "type": "tabs",
+        "dimension": 38.05073431241656,
+        "children": [
+          {
+            "id": "e37824cc66bb4c68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5064926147461
+  },
+  "right": {
+    "id": "351d6590ed233d4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9597ef3e2ca2165f",
+        "type": "tabs",
+        "dimension": 67.99410029498524,
+        "children": [
+          {
+            "id": "2243bd04e5b90f95",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "5d51d7005bab3562",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "4881a6c4e9aecdf3",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5ec245e9c940afc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "573610388fb95426",
+        "type": "tabs",
+        "dimension": 32.00589970501475,
+        "children": [
+          {
+            "id": "4d70aa6eadcc5979",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "佛法/杂阿含经/杂阿含经.md"
+              }
+            }
+          },
+          {
+            "id": "8788e798d2999214",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "佛法/杂阿含经/杂阿含经.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44e8fcf51747942c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "佛法/杂阿含经/杂阿含经.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f84719bfb6578f4a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "佛法/杂阿含经/杂阿含经.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6554983534946921,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "47f686646d2aed5f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false,
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-journey-plugin:Find Journey": false,
+      "dbfolder:创建一个新数据库表": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "templater-obsidian:Templater": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "cb540d4fc7dc3913",
+  "lastOpenFiles": [
+    "佛法/心经.md",
+    "佛法/佛法.md",
+    "佛法/杂阿含经/杂阿含经.md",
+    "佛法/杂阿含经/杂阿含经 经文/1.3 无知经.md",
+    "佛法/杂阿含经/杂阿含经 经文/1.2 正思惟经.md",
+    "佛法/杂阿含经/杂阿含经 经文/1.1 无常经.md",
+    "佛法/佛法 名词/般若波罗蜜多.md",
+    "佛法/佛法 名词/道.md",
+    "佛法/佛法 名词/厌离.md",
+    "佛法/佛法 名词/非我.md",
+    "佛法/佛法 名词/缘起性空.md",
+    "佛法/佛法 名词/戒定慧.md",
+    "佛法/佛法 名词/涅槃.md",
+    "佛法/佛法 名词/喜贪.md",
+    "佛法/佛法 名词/无常.md",
+    "佛法/佛法 名词/正见.md",
+    "佛法/佛法 名词/五蕴.md",
+    "佛法/佛法 名词/空性.md",
+    "佛法/佛法 名词/萨婆诃.md",
+    "佛法/佛法 名词/菩提.md",
+    "佛法/佛法 名词/苦集灭道.md",
+    "佛法/佛法 名词/三藐三.md",
+    "佛法/佛法 名词/阿耨多罗.md",
+    "佛法/佛法 名词/苦.md",
+    "佛法/佛法 名词/八正道.md",
+    "佛法/佛法 名词/四圣谛.md",
+    "佛法/其它",
+    "佛法",
+    "Pasted image 20231221091255.png",
+    "Pasted image 20231225101013.png",
+    "Pasted image 20231221091050.png",
+    "Pasted image 20231221090830.png",
+    "佛法/佛法 名词",
+    "佛法/杂阿含经/杂阿含经 经文",
+    "Pasted image 20231220151856.png",
+    "Pasted image 20231220151802.png",
+    "Pasted image 20231220151710.png",
+    "Pasted image 20231122140739.png",
+    "Pasted image 20231122140702.png",
+    "04-知识库/碎片 MOC",
+    "Pasted image 20231122103210.png",
+    "05-Moc/ObtoAnki模板",
+    "01-收集箱/L1/说话 main",
+    "03-领域/恋爱 MOC/聊天 MOC",
+    "03-领域/恋爱 MOC",
+    "04-知识库/佛法 MOC",
+    "未命名.canvas",
+    "Obsidian 入门/未命名.canvas"
+  ]
+}

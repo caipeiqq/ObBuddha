@@ -1,0 +1,27 @@
+{
+  "obsidianCss": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheck": false,
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "D:\\Obsidian",
+  "attachmentFolderPath": "500-档案/590-Media",
+  "promptDelete": false,
+  "newLinkFormat": "shortest",
+  "autoConvertHtml": false,
+  "useMarkdownLinks": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "legacyEditor": false,
+  "livePreview": false,
+  "defaultViewMode": "source",
+  "showLineNumber": true,
+  "showFrontmatter": false,
+  "spellcheckLanguages": null
+}

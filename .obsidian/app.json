@@ -1,0 +1,28 @@
+{
+  "obsidianCss": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheck": false,
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "F:\\1 ObBuddha\\佛法\\佛法 名词",
+  "attachmentFolderPath": "",
+  "promptDelete": false,
+  "newLinkFormat": "shortest",
+  "autoConvertHtml": false,
+  "useMarkdownLinks": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "showLineNumber": false,
+  "showFrontmatter": false,
+  "spellcheckLanguages": null,
+  "readableLineLength": true
+}
