@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "8.1 修习 冥想/8.1 修习 冥想.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "无明",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "8.1 修习 冥想/8.1 修习 冥想.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "8.1 修习 冥想/8.1 修习 冥想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "8.1 修习 冥想/8.1 修习 冥想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "8.1 修习 冥想/8.1 修习 冥想.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,52 +254,52 @@
   },
   "active": "cb540d4fc7dc3913",
   "lastOpenFiles": [
-    "佛法/心经.md",
+    "2.2 杂阿含经/2.2 杂阿含经.md",
+    "8.1 修习 冥想/8.1 修习 冥想.md",
+    "2.2 杂阿含经/杂阿含经 经文/1.1 无常经.md",
+    "2.1 心经/2.1 心经.md",
+    "8.1 修习 冥想",
+    "9.1 佛法 名词/萨婆诃.md",
+    "9.1 佛法 名词/般若波罗蜜多.md",
+    "1 佛法/1 佛法.md",
     "README.md",
-    "佛法/杂阿含经/杂阿含经.md",
-    "佛法/其它/备注：感恩.md",
-    "佛法/佛法.md",
-    "佛法/杂阿含经/杂阿含经 经文/1.3 无知经.md",
-    "佛法/杂阿含经/杂阿含经 经文/1.2 正思惟经.md",
-    "佛法/杂阿含经/杂阿含经 经文/1.1 无常经.md",
-    "佛法/佛法 名词/般若波罗蜜多.md",
-    "佛法/佛法 名词/道.md",
-    "佛法/佛法 名词/厌离.md",
-    "佛法/佛法 名词/非我.md",
-    "佛法/佛法 名词/缘起性空.md",
-    "佛法/佛法 名词/戒定慧.md",
-    "佛法/佛法 名词/涅槃.md",
-    "佛法/佛法 名词/喜贪.md",
-    "佛法/佛法 名词/无常.md",
-    "佛法/佛法 名词/正见.md",
-    "佛法/佛法 名词/五蕴.md",
-    "佛法/佛法 名词/空性.md",
-    "佛法/佛法 名词/萨婆诃.md",
-    "佛法/佛法 名词/菩提.md",
-    "佛法/佛法 名词/苦集灭道.md",
-    "佛法/佛法 名词/三藐三.md",
-    "佛法/佛法 名词/阿耨多罗.md",
-    "佛法/佛法 名词/苦.md",
-    "佛法/其它",
-    "佛法",
+    "9.2 佛法 资料/《了凡四训》尚荣译注 中华书局.epub",
+    "9.2 佛法 资料/了凡四训_1701928491809_0.epub",
+    "9.2 佛法 资料/《阿含经校注》.epub",
+    "9.2 佛法 资料/《杂阿含经新译》悟慈法师.epub",
+    "9.2 佛法 资料/杂阿含经新译 (悟慈法师) (Z-Library).epub",
+    "9.2 佛法 资料/阿含经校注_豆瓣9分.epub",
+    "9.2 佛法 资料/《金刚经,心经,坛经》陈秋平,尚荣译注 中华书局.epub",
+    "9.1 佛法 名词/五蕴.md",
+    "9.1 佛法 名词/萨埵.md",
+    "9.1 佛法 名词/菩提.md",
+    "9.1 佛法 名词/波罗蜜多.md",
+    "9.1 佛法 名词/般若.md",
+    "9.1 佛法 名词/自在.md",
+    "9.1 佛法 名词/菩萨.md",
+    "9.1 佛法 名词/无眼界.md",
+    "9.1 佛法 名词/有情.md",
+    "9.1 佛法 名词/观.md",
+    "2.1 心经/心经 注释.md",
+    "2.2 杂阿含经/杂阿含经 经文/1.2 正思惟经.md",
+    "9.1 佛法 名词/未命名",
+    "9.1 佛法 名词/无明.md",
+    "9.1 佛法 名词/无意识界.md",
+    "9.1 佛法 名词/空性.md",
+    "9.1 佛法 名词/涅槃.md",
+    "9.1 佛法 名词/有漏.md",
+    "2.1 心经/附件",
+    "2.2 杂阿含经/杂阿含经 经文/1.3.1 无知经.md",
     "Pasted image 20231221091255.png",
     "Pasted image 20231225101013.png",
     "Pasted image 20231221091050.png",
     "Pasted image 20231221090830.png",
-    "佛法/佛法 名词",
-    "佛法/杂阿含经/杂阿含经 经文",
     "Pasted image 20231220151856.png",
     "Pasted image 20231220151802.png",
     "Pasted image 20231220151710.png",
     "Pasted image 20231122140739.png",
     "Pasted image 20231122140702.png",
-    "04-知识库/碎片 MOC",
     "Pasted image 20231122103210.png",
-    "05-Moc/ObtoAnki模板",
-    "01-收集箱/L1/说话 main",
-    "03-领域/恋爱 MOC/聊天 MOC",
-    "03-领域/恋爱 MOC",
-    "04-知识库/佛法 MOC",
     "未命名.canvas",
     "Obsidian 入门/未命名.canvas"
   ]
