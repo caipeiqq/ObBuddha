@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.2-杂阿含经/杂阿含经_第一卷/杂阿含经_第一卷.md",
+                "file": "2.1-心经/2.1-心经.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.2-杂阿含经/杂阿含经_第一卷/杂阿含经_第一卷.md"
+                "file": "2.1-心经/2.1-心经.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.2-杂阿含经/杂阿含经_第一卷/杂阿含经_第一卷.md",
+                "file": "2.1-心经/2.1-心经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.2-杂阿含经/杂阿含经_第一卷/杂阿含经_第一卷.md",
+                "file": "2.1-心经/2.1-心经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2.2-杂阿含经/杂阿含经_第一卷/杂阿含经_第一卷.md",
+                "file": "2.1-心经/2.1-心经.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,9 +256,13 @@
   },
   "active": "cb540d4fc7dc3913",
   "lastOpenFiles": [
-    "2.2-杂阿含经/2.2-杂阿含经.md",
-    "2.2-杂阿含经/杂阿含经_第一卷/杂阿含经_第一卷.md",
+    "2.1-心经/心经 注释.md",
+    "2.1-心经/2.1-心经.md",
+    "9.1-佛法_名词/菩提.md",
+    "9.1-佛法_名词/萨婆诃.md",
     "README.md",
+    "2.2-杂阿含经/杂阿含经_第一卷/杂阿含经_第一卷.md",
+    "2.2-杂阿含经/2.2-杂阿含经.md",
     "2.2-杂阿含经/杂阿含经_第二卷/杂阿含经_第二卷.md",
     "2.2-杂阿含经/杂阿含经_第二卷",
     "2.2-杂阿含经/你好阿含.md",
@@ -279,10 +283,6 @@
     "9.1-佛法_名词/如理作意.md",
     "9.1-佛法_名词/欲贪.md",
     "2.2-杂阿含经/杂阿含经_第一卷/1.2 正思惟经.md",
-    "9.1-佛法_名词/厌离.md",
-    "9.1-佛法_名词/苦.md",
-    "9.1-佛法_名词/苦集灭道.md",
-    "9.1-佛法_名词/空性.md",
     "9.2-佛法_资料/你好阿含",
     "Pasted image 20240115104455.png",
     "9.2-佛法 资料/佛法 资料 附录/Pasted image 20240108154817.png",
