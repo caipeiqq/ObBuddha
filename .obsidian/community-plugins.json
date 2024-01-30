@@ -41,5 +41,7 @@
   "highlightr-plugin",
   "calendar",
   "editing-toolbar",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "media-extended",
+  "obsidian-show-file-path"
 ]

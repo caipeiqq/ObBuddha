@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8.1 修习 冥想/8.1 修习 冥想.md",
+                "file": "2.2-杂阿含经/杂阿含经_第一卷/杂阿含经_第一卷.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,21 +50,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "无明",
+                "query": "缘起性",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "5f54b11d95f0209f",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -84,8 +76,17 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "5f54b11d95f0209f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8.1 修习 冥想/8.1 修习 冥想.md"
+                "file": "2.2-杂阿含经/杂阿含经_第一卷/杂阿含经_第一卷.md"
               }
             }
           },
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8.1 修习 冥想/8.1 修习 冥想.md",
+                "file": "2.2-杂阿含经/杂阿含经_第一卷/杂阿含经_第一卷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8.1 修习 冥想/8.1 修习 冥想.md",
+                "file": "2.2-杂阿含经/杂阿含经_第一卷/杂阿含经_第一卷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "8.1 修习 冥想/8.1 修习 冥想.md",
+                "file": "2.2-杂阿含经/杂阿含经_第一卷/杂阿含经_第一卷.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,50 +248,52 @@
       "obsidian-journey-plugin:Find Journey": false,
       "juggl:Juggl global graph": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "templater-obsidian:Templater": false,
       "dbfolder:创建一个新数据库表": false,
+      "templater-obsidian:Templater": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "obsidian-memos:Memos": false
     }
   },
   "active": "cb540d4fc7dc3913",
   "lastOpenFiles": [
-    "2.2 杂阿含经/2.2 杂阿含经.md",
-    "8.1 修习 冥想/8.1 修习 冥想.md",
-    "2.2 杂阿含经/杂阿含经 经文/1.1 无常经.md",
-    "2.1 心经/2.1 心经.md",
-    "8.1 修习 冥想",
-    "9.1 佛法 名词/萨婆诃.md",
-    "9.1 佛法 名词/般若波罗蜜多.md",
-    "1 佛法/1 佛法.md",
+    "2.2-杂阿含经/2.2-杂阿含经.md",
+    "2.2-杂阿含经/杂阿含经_第一卷/杂阿含经_第一卷.md",
     "README.md",
-    "9.2 佛法 资料/《了凡四训》尚荣译注 中华书局.epub",
-    "9.2 佛法 资料/了凡四训_1701928491809_0.epub",
-    "9.2 佛法 资料/《阿含经校注》.epub",
-    "9.2 佛法 资料/《杂阿含经新译》悟慈法师.epub",
-    "9.2 佛法 资料/杂阿含经新译 (悟慈法师) (Z-Library).epub",
-    "9.2 佛法 资料/阿含经校注_豆瓣9分.epub",
-    "9.2 佛法 资料/《金刚经,心经,坛经》陈秋平,尚荣译注 中华书局.epub",
-    "9.1 佛法 名词/五蕴.md",
-    "9.1 佛法 名词/萨埵.md",
-    "9.1 佛法 名词/菩提.md",
-    "9.1 佛法 名词/波罗蜜多.md",
-    "9.1 佛法 名词/般若.md",
-    "9.1 佛法 名词/自在.md",
-    "9.1 佛法 名词/菩萨.md",
-    "9.1 佛法 名词/无眼界.md",
-    "9.1 佛法 名词/有情.md",
-    "9.1 佛法 名词/观.md",
-    "2.1 心经/心经 注释.md",
-    "2.2 杂阿含经/杂阿含经 经文/1.2 正思惟经.md",
-    "9.1 佛法 名词/未命名",
-    "9.1 佛法 名词/无明.md",
-    "9.1 佛法 名词/无意识界.md",
-    "9.1 佛法 名词/空性.md",
-    "9.1 佛法 名词/涅槃.md",
-    "9.1 佛法 名词/有漏.md",
-    "2.1 心经/附件",
-    "2.2 杂阿含经/杂阿含经 经文/1.3.1 无知经.md",
+    "2.2-杂阿含经/杂阿含经_第二卷/杂阿含经_第二卷.md",
+    "2.2-杂阿含经/杂阿含经_第二卷",
+    "2.2-杂阿含经/你好阿含.md",
+    "2.2-杂阿含经/杂阿含经_第一卷/1.1 无常经.md",
+    "9.1-佛法_名词/9.1-佛法_名词.md",
+    "2.2-杂阿含经/杂阿含经_第一卷/1.9 厌离经.md",
+    "9.1-佛法_名词/我生已尽，梵行已立，所作已作，自知不受后有.md",
+    "9.1-佛法_名词/解脱.md",
+    "9.1-佛法_名词/正观.md",
+    "9.1-佛法_名词/非我.md",
+    "9.1-佛法_名词/非我所.md",
+    "2.2-杂阿含经/杂阿含经_第一卷/1.8 过去无常经.md",
+    "2.2-杂阿含经/杂阿含经_第一卷/1.5 无知经.md",
+    "2.2-杂阿含经/杂阿含经_第一卷/1.7 于色喜乐经.md",
+    "2.2-杂阿含经/杂阿含经_第一卷/1.4 无知经.md",
+    "2.2-杂阿含经/杂阿含经_第一卷/1.6 无知经.md",
+    "2.2-杂阿含经/杂阿含经_第一卷/1.3 无知经.md",
+    "9.1-佛法_名词/如理作意.md",
+    "9.1-佛法_名词/欲贪.md",
+    "2.2-杂阿含经/杂阿含经_第一卷/1.2 正思惟经.md",
+    "9.1-佛法_名词/厌离.md",
+    "9.1-佛法_名词/苦.md",
+    "9.1-佛法_名词/苦集灭道.md",
+    "9.1-佛法_名词/空性.md",
+    "9.2-佛法_资料/你好阿含",
+    "Pasted image 20240115104455.png",
+    "9.2-佛法 资料/佛法 资料 附录/Pasted image 20240108154817.png",
+    "9.2-佛法_资料/8.1-修行法门_冥想/修行法门_冥想_附件/道家冥想與存思觀想的奧秘！【無有淺談】.mp3",
+    "9.2-佛法_资料/8.1-修行法门_冥想/修行法门_冥想_附件",
+    "8.1 修习 冥想/新建文件夹",
+    "测试/未命名",
+    "测试",
+    "9.2-佛法_资料/佛法 资料 附录",
+    "9.2-佛法 资料/阿弥陀佛 观想图",
+    "9.2-佛法_资料/8.1-修行法门_冥想",
     "Pasted image 20231221091255.png",
     "Pasted image 20231225101013.png",
     "Pasted image 20231221091050.png",
@@ -298,8 +302,6 @@
     "Pasted image 20231220151802.png",
     "Pasted image 20231220151710.png",
     "Pasted image 20231122140739.png",
-    "Pasted image 20231122140702.png",
-    "Pasted image 20231122103210.png",
     "未命名.canvas",
     "Obsidian 入门/未命名.canvas"
   ]
